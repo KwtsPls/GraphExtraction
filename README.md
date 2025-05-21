@@ -10,7 +10,7 @@ __Basic requirements:__
 
 Set up locally:
 ```
-git clone https://github.com/AI-team-UoA/pyJedAI.git
+git clone https://github.com/KwtsPls/GraphExtraction/
 ```
 go to the root directory with `cd GraphExtraction` and type:
 ```
