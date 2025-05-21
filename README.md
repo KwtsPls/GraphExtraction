@@ -39,7 +39,7 @@ Running the following command:
 Users can extract the entities and relationhsips after they are cleaned and matched using [PyJedAI](https://github.com/AI-team-UoA/pyJedAI/), in various forms:
 
   - simple: a simple mapping of entities and relationships to .csv
-  - neo4j: .csv files that can be directly imported in a neo4j dataset
+  - neo4j: .csv files that can be directly imported in a neo4j database
   - ntriples: a .nt file format for usage in semantic web settings
 
 Users can create python scripts similar to graphgrap.py to utilize their own LLMs and source files for graph extraction from raw text.
