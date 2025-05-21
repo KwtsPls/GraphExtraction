@@ -4,8 +4,6 @@ An LLM-powered approach was developed to generate graphs and knowledge graphs di
 
 # Install
 
-pyJedAI has been tested in Windows and Linux OS. 
-
 __Basic requirements:__
 
 - Python version greater or equal to **3.10**.
